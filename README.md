@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 ## 🌐 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/YourDiscordInvite)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/)
 
 ---
 
