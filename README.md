@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 ## 🚀 About Me
 - 💻 **Languages:** JavaScript | C# | Lua | Python | HTML/CSS
-- 🔧 **Frameworks & Tools:** Vue.js | Node.js | VSCode
+- 🔧 **Frameworks & Tools:** Vue.js | Node.js
 - 📚 **Learning:** Exploring the depths of AI and Machine Learning
 - 🌱 **Hobbies:** Gaming 🎮 | Music 🎵 | Creative Coding ✨
 
