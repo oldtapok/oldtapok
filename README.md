@@ -1,5 +1,3 @@
-Welcome to my GitHub profile! I'm a passionate developer who loves crafting elegant code and building amazing projects. Here's a little about me:
-
 ---
 
 ## 🚀 About Me
